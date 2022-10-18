@@ -49,4 +49,4 @@
 
 ## ✔ 결과
 
-![image-20221019001322328](C:\Users\Hanbyeoroo\AppData\Roaming\Typora\typora-user-images\image-20221019001322328.png)
+![image-20221019001612752](./README.assets/image-20221019001612752.png)
