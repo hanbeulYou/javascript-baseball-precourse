@@ -44,3 +44,9 @@
 
 - 재시작 버튼 구현
   - 재시작 버튼 클릭시 새로운 랜덤 숫자 생성
+
+---
+
+## ✔ 결과
+
+![image-20221019001322328](C:\Users\Hanbyeoroo\AppData\Roaming\Typora\typora-user-images\image-20221019001322328.png)
